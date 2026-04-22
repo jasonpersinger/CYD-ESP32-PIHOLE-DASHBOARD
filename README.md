@@ -21,6 +21,10 @@ Available from AliExpress, Amazon, and similar for ~$10–15.
 
 Three slides cycle automatically every 5 seconds:
 
+| Slide 1 — Overview | Slide 2 — Blocking Stats | Slide 3 — Blocklist |
+|:------------------:|:------------------------:|:-------------------:|
+| ![Overview](docs/slide1_overview.png) | ![Blocking Stats](docs/slide2_blocking.png) | ![Blocklist](docs/slide3_blocklist.png) |
+
 **Slide 1 — Overview**
 - Block percentage (large, color-coded green/orange)
 - Total queries today
